@@ -1,0 +1,9 @@
+{
+	"name": "AdfPod",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b8a46fa1-0745-4136-b516-c41a319077da",
+		"tenantId": "4c1322f6-1435-456d-be6d-1d524b7498d7"
+	}
+}
