@@ -1,0 +1,7 @@
+{
+	"name": "SelfHostedRuntime1",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "To facilitate data transfers from external clients. Provides an installer which upon installation runs on their system and can be linked to their data sources (by them) and send data over for poc."
+	}
+}
